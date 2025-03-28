@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,3 +12,6 @@ Currently, two official plugins are available:
 <!-- service_hqks6io
 template_n63fks5
 t6GZv47xMfokWO8uq -->
+=======
+# portfolio
+>>>>>>> 093bd9c013f6cb61e1d5d3370e797d2ddf587a9e
